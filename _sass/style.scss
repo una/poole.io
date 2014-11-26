@@ -5,11 +5,16 @@
 /////////////////////////////////////////////////
 
 // Import all configuration, mixins, variables, etc.
-@import "config/config";
+@import 'config/config';
 
 // Import global behaviors.
-@import "global/normalize";
+@import 'global/normalize';
 
+// Dependancies, Variables, Etc.
+@import 'dependancies/vars';
 
-// Temporary styles, remove after starting.
-@import "temporary";
+// Mixins
+@import 'mixins/mixins';
+
+// Components
+@import 'components/color-sample';

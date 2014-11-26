@@ -1,0 +1,18 @@
+// Color Samples
+%color-sample {
+  width: 100px;
+  height: 100px;
+  float: left;
+  list-style: none;
+  margin: 1em;
+  padding: .5em;
+  text-align: center;
+
+  &:after {
+    display: block;
+  }
+
+  &:before {
+    display: block;
+  }
+}

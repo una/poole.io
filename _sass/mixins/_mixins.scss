@@ -1,0 +1,19 @@
+// colors
+$i: 1;
+
+@each $color, $bgcolor in $colors {
+
+  .color-sample:nth-child(#{$i}) {
+    @extend %color-sample;
+    @include contrasted($bgcolor);
+    &:before {
+      content: '$#{$color}';
+    }
+
+    &:after {
+      content: '#{$bgcolor}';
+    }
+  }
+
+  $i: $i + 1;
+}

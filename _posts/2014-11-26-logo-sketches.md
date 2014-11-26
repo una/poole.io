@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Mr. Poole's Jekyll!"
-date:   2014-11-26 11:16:11
+title:  "Logo Sketches"
+date:   2014-11-26
 categories:
- - jekyll
- - update
+ - sketches
+ - logo
 ---
 
 You'll find this post in your `_posts` directory - edit this post and BrowserSync should reload it within the browser without needing to refresh. You can do the same with your Sass files, JavaScript, etc. Mr. Poole has taken care of the hard work for you.
