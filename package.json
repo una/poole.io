@@ -1,0 +1,14 @@
+{
+  "name": "poole_design",
+  "version": "0.0.0",
+  "homepage": "mrpoole.io/design",
+  "repository": "poole_design",
+  "description": "Design of Mr.Poole",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-poole": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

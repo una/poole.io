@@ -1,0 +1,9 @@
+{
+  "generator-poole": {
+    "projectName": "Poole Design",
+    "projectSlug": "poole_design",
+    "projectUrl": "mrpoole.io/design",
+    "description": "Design of Mr.Poole",
+    "projectRepo": "https://github.com/una/poole.io"
+  }
+}
