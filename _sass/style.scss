@@ -7,11 +7,14 @@
 // Import all configuration, mixins, variables, etc.
 @import 'config/config';
 
-// Import global behaviors.
-@import 'global/normalize';
-
 // Dependancies, Variables, Etc.
 @import 'dependancies/vars';
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+@import 'dependancies/type';
+
+// Import global behaviors.
+@import 'global/normalize';
+@import 'global/base';
 
 // Mixins
 @import 'mixins/mixins';
