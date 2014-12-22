@@ -7,3 +7,6 @@ categories:
  - logo
 ---
 
+meh I dont feel like scanning in all the sketches
+
+

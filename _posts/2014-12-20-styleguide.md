@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Color Studies"
-date:   2014-11-26
+title:  "Styleguide"
+date:   2014-12-20
 categories:
- - sketches
- - color
+- styleguide
+- color
+- logo
+- typography
 ---
 
 <ul>
+  <li class="color-sample"></li>
   <li class="color-sample"></li>
   <li class="color-sample"></li>
   <li class="color-sample"></li>
